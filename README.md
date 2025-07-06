@@ -37,37 +37,37 @@ Download and install Python from: [https://www.python.org/downloads/](https://ww
 2. **Clone the repository**
 
 ```bash
-git clone https://github.com/Constantin-Stamate/Excalibur_AI_Camp.git
+  git clone https://github.com/Constantin-Stamate/Excalibur_AI_Camp.git
 ```
 
 3. **Navigate into the project folder**
 
 ```bash
-cd Excalibur_AI_Camp
+  cd Excalibur_AI_Camp
 ```
 
 4. **(Optional) Create a virtual environment**
 
 ```bash
-python -m venv venv
+  python -m venv venv
 ```
 
 5. **Activate the virtual environment**
 
 ```bash
-source venv/bin/activate   # On Windows use: venv\Scripts\activate
+  source venv/bin/activate   # On Windows use: venv\Scripts\activate
 ```
 
 6. **Install Jupyter Notebook**
 
 ```bash
-pip install notebook
+  pip install notebook
 ```
 
 7. **Run Jupyter Notebook**
 
 ```bash
-jupyter notebook
+  jupyter notebook
 ```
 
 Then open the desired `.ipynb` file from the lesson folders.
