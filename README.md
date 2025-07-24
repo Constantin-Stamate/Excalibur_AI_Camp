@@ -1,10 +1,10 @@
-# 🧠 Excalibur AI Camp – Homework Collection
+# Excalibur AI Camp – Homework Collection
 
 This repository contains the homework assignments completed as part of the **Excalibur AI Camp**, an educational program focused on **Machine Learning**, **Python programming**, and data analysis tools such as **NumPy** and **Pandas**.
 
 ---
 
-## 📁 Structure
+## Structure
 
 The project is organized into four main folders, each corresponding to a lesson from the camp:
 
@@ -19,7 +19,7 @@ Each folder contains Jupyter notebooks relevant to that lesson's subject.
 
 ---
 
-## 🧰 Technologies & Topics Covered
+## Technologies & Topics Covered
 
 -  Python (core syntax, control structures, functions)
 -  NumPy (arrays, indexing, broadcasting, mathematical operations)
@@ -28,7 +28,7 @@ Each folder contains Jupyter notebooks relevant to that lesson's subject.
 
 ---
 
-## ⚙️ How to Run
+## How to Run
 
 1. **Install Python (3.8 or later)**  
 Download and install Python from: [https://www.python.org/downloads/](https://www.python.org/downloads/)
@@ -74,7 +74,7 @@ Then open the desired `.ipynb` file from the lesson folders.
 
 ---
 
-## 📊 About the Camp
+## About the Camp
 
 **Excalibur AI Camp** is an intensive training program focused on real-world applications of Python in data science and machine learning. Throughout the course, participants covered topics including:
 
@@ -89,7 +89,7 @@ Each lesson included hands-on assignments to reinforce the concepts through prac
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 This repository was created and maintained by **Constantin Stamate** as part of the Excalibur AI Camp program.
 
